@@ -1,0 +1,5 @@
+# cd ../01.raw/
+# ls -1 *gz | cut –d ‘_’ –f 1 | sort –u > sample.txt is created.
+# Raw fastq files are moved into Whippet.jl folder
+nohup parallel –a ../sample.txt –colsep ‘ ‘ –jobs 8 “julia bin/whippet/quant.jl ../01.raw/{1}_1.fastq.gz ../01.raw/{1}_1.fastq.gz  -o ../Whippet.jl/ {1}” &
+# Create five different file types. *gene.tmp.gz, *isoform.tmp.gz, *jnc.gz, *map.gz, *psi.gz 

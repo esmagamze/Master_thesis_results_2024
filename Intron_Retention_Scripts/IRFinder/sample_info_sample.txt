@@ -1,0 +1,7 @@
+sample,condition
+SRR8281319,control
+SRR454532,control
+SRR1239321,control
+SRR2257653,treatment
+SRR3388752,treatment
+SRR0947724,treatment
