@@ -1,0 +1,2 @@
+"Pasted","Symbol","Ensembl Gene ID","Entrez","Type","Species","Chr","Position (Mbp)","Description","percentage_gc_content","transcript_count","genomeSpan","cds_length","transcript_length","FiveUTR","ThreeUTR","nExons"
+"ENSG00000183020"," AP2A2","ENSG00000183020",161,"protein_coding","Human","11",0.924881,"adaptor related protein complex 2 subunit alpha 2 [Source:HGNC Symbol;Acc:HGNC:562]",53.11,36,87365,1112,2117,123,493,8

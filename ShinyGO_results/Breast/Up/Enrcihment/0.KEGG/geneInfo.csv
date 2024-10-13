@@ -1,0 +1,7 @@
+"Pasted","Symbol","Ensembl Gene ID","Entrez","Type","Species","Chr","Position (Mbp)","Description","percentage_gc_content","transcript_count","genomeSpan","cds_length","transcript_length","FiveUTR","ThreeUTR","nExons"
+"ENSG00000142949"," PTPRF","ENSG00000142949",5792,"protein_coding","Human","1",43.525187,"protein tyrosine phosphatase receptor type F [Source:HGNC Symbol;Acc:HGNC:9670]",55.69,16,98480,3559,3187,111,1074,15
+"ENSG00000143614"," GATAD2B","ENSG00000143614",57459,"protein_coding","Human","1",153.78903,"GATA zinc finger domain containing 2B [Source:HGNC Symbol;Acc:HGNC:30778]",45.03,12,134331,969,1335,70,1588,5
+"ENSG00000180900"," SCRIB","ENSG00000180900",23513,"protein_coding","Human","8",143.79092,"scribble planar cell polarity protein [Source:HGNC Symbol;Acc:HGNC:30377]",62.82,10,24854,3215,2708,131,240,18
+"ENSG00000074181"," NOTCH3","ENSG00000074181",4854,"protein_coding","Human","19",15.159038,"notch receptor 3 [Source:HGNC Symbol;Acc:HGNC:7883]",54.88,6,41958,2927,2494,90,574,12
+"ENSG00000104946"," TBC1D17","ENSG00000104946",79735,"protein_coding","Human","19",49.877666,"TBC1 domain family member 17 [Source:HGNC Symbol;Acc:HGNC:25699]",57.44,8,11085,1300,1675,34,176,11
+"ENSG00000182492"," BGN","ENSG00000182492",633,"protein_coding","Human","X",153.49498,"biglycan [Source:HGNC Symbol;Acc:HGNC:1044]",62.62,5,14567,910,1624,69,1101,6

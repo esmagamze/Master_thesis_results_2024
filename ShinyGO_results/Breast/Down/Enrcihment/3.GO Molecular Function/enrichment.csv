@@ -1,0 +1,5 @@
+"Enrichment FDR","nGenes","Pathway Genes","Fold Enrichment","Pathway","URL","Genes"
+0.0313249686305106,1,15,508.466666666667,"GO:0042809 nuclear vitamin D receptor binding "," http://amigo.geneontology.org/amigo/term/GO:0042809"," MED16"
+0.0313249686305106,1,24,317.791666666667,"GO:0004298 threonine-type endopeptidase activity "," http://amigo.geneontology.org/amigo/term/GO:0004298"," PSMB7"
+0.0313249686305106,1,31,246.032258064516,"GO:0046966 nuclear thyroid hormone receptor binding "," http://amigo.geneontology.org/amigo/term/GO:0046966"," MED16"
+0.0313249686305106,1,33,231.121212121212,"GO:0070003 threonine-type peptidase activity "," http://amigo.geneontology.org/amigo/term/GO:0070003"," PSMB7"

@@ -1,0 +1,3 @@
+"Pasted","Symbol","Ensembl Gene ID","Entrez","Type","Species","Chr","Position (Mbp)","Description","percentage_gc_content","transcript_count","genomeSpan","cds_length","transcript_length","FiveUTR","ThreeUTR","nExons"
+"ENSG00000160789"," LMNA","ENSG00000160789",4000,"protein_coding","Human","1",156.082573,"lamin A/C [Source:HGNC Symbol;Acc:HGNC:6636]",53.03,42,57509,1341,1825,137,239,9
+"ENSG00000160959"," LRRC14","ENSG00000160959",9684,"protein_coding","Human","8",144.517992,"leucine rich repeat containing 14 [Source:HGNC Symbol;Acc:HGNC:20419]",63.18,9,7181,921,1529,103,2120,3

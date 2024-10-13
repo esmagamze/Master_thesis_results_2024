@@ -1,0 +1,6 @@
+"source","term_name","term_id","highlighted","adjusted_p_value","negative_log10_of_adjusted_p_value","term_size","query_size","intersection_size","effective_domain_size","intersections"
+"WP","Lamin A processing pathway","WP:WP4299","false","0.01873998347883031","1.727230796322093","3","1","1","8286","ENSG00000160789"
+"CORUM","NF-YA-LaminA complex","CORUM:6091","false","0.024965846721687054","1.6026537001748413","1","1","1","3383","ENSG00000160789"
+"HP","Increased facial adipose tissue","HP:0000287","false","0.04992431473884267","1.3016878875425226","1","1","1","4958","ENSG00000160789"
+"HP","Labial pseudohypertrophy","HP:0008739","false","0.04992431473884267","1.3016878875425226","1","1","1","4958","ENSG00000160789"
+"HP","Enlarged peripheral nerve","HP:0012645","false","0.04992431473884267","1.3016878875425226","1","1","1","4958","ENSG00000160789"

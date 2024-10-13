@@ -1,0 +1,6 @@
+"Enrichment FDR","nGenes","Pathway Genes","Fold Enrichment","Pathway","URL","Genes"
+0.0487261503653107,1,4,953.375,"GO:0099147 extrinsic component of postsynaptic density membrane "," http://amigo.geneontology.org/amigo/term/GO:0099147"," SCRIB"
+0.0487261503653107,1,5,762.7,"GO:0098892 extrinsic component of postsynaptic specialization membrane "," http://amigo.geneontology.org/amigo/term/GO:0098892"," SCRIB"
+0.0487261503653107,1,6,635.583333333333,"GO:0035748 myelin sheath abaxonal region "," http://amigo.geneontology.org/amigo/term/GO:0035748"," SCRIB"
+0.0487261503653107,1,8,476.6875,"GO:0098890 extrinsic component of postsynaptic membrane "," http://amigo.geneontology.org/amigo/term/GO:0098890"," SCRIB"
+0.0487261503653107,1,10,381.35,"GO:0099243 extrinsic component of synaptic membrane "," http://amigo.geneontology.org/amigo/term/GO:0099243"," SCRIB"

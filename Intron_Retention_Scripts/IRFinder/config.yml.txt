@@ -1,0 +1,7 @@
+working_dir: ../user_working_dir_path
+fastq_dir: ../user_fastq_dir_path
+trimmed_dir: ../user_trimmed_dir_path
+METAFILE: ../user_metafile_path/sample.info
+ref: ../user_ref_path/REF/STAR
+ir_ref: ../user_ir_ref_path/REF
+irfinderbin_dir: ../user_irfinderbin_dir_path/IRFinder/bin

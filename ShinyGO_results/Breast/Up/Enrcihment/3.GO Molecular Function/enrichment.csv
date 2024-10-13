@@ -1,0 +1,6 @@
+"Enrichment FDR","nGenes","Pathway Genes","Fold Enrichment","Pathway","URL","Genes"
+0.0441226468660496,1,20,190.675,"GO:0005001 transmembrane receptor protein tyrosine phosphatase activity "," http://amigo.geneontology.org/amigo/term/GO:0005001"," PTPRF"
+0.0441226468660496,1,23,165.804347826087,"GO:0030021 extracellular matrix structural constituent conferring compression re"," http://amigo.geneontology.org/amigo/term/GO:0030021"," BGN"
+0.040875417220537,2,259,29.4478764478764,"GO:0005539 glycosaminoglycan binding "," http://amigo.geneontology.org/amigo/term/GO:0005539"," PTPRF  BGN"
+0.0441226468660496,2,355,21.4845070422535,"GO:0045296 cadherin binding "," http://amigo.geneontology.org/amigo/term/GO:0045296"," NOTCH3  SCRIB"
+0.0144484099424882,3,594,19.260101010101,"GO:0050839 cell adhesion molecule binding "," http://amigo.geneontology.org/amigo/term/GO:0050839"," NOTCH3  SCRIB  PTPRF"

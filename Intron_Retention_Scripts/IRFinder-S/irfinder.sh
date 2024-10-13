@@ -1,0 +1,1 @@
+singularity run IRFinder BAM -r ${snakemake_input[ref]} -d ${snakemake_output[0]} ${snakemake_input[bam]}

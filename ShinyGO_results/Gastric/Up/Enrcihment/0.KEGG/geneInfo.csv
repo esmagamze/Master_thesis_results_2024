@@ -1,0 +1,16 @@
+"Pasted","Symbol","Ensembl Gene ID","Entrez","Type","Species","Chr","Position (Mbp)","Description","percentage_gc_content","transcript_count","genomeSpan","cds_length","transcript_length","FiveUTR","ThreeUTR","nExons"
+"ENSG00000084636"," COL16A1","ENSG00000084636",1307,"protein_coding","Human","1",31.652263,"collagen type XVI alpha 1 chain [Source:HGNC Symbol;Acc:HGNC:2193]",56,17,52057,2004,1364,183,306,16
+"ENSG00000159348"," CYB5R1","ENSG00000159348",51706,"protein_coding","Human","1",202.961873,"cytochrome b5 reductase 1 [Source:HGNC Symbol;Acc:HGNC:13397]",50.27,7,5403,799,1201,52,654,5
+"ENSG00000168542"," COL3A1","ENSG00000168542",1281,"protein_coding","Human","2",188.974373,"collagen type III alpha 1 chain [Source:HGNC Symbol;Acc:HGNC:2201]",33.79,6,38374,2720,2090,110,624,17
+"ENSG00000163932"," PRKCD","ENSG00000163932",5580,"protein_coding","Human","3",53.156009,"protein kinase C delta [Source:HGNC Symbol;Acc:HGNC:9399]",56.58,14,36709,1187,1803,84,281,12
+"ENSG00000070081"," NUCB2","ENSG00000070081",4925,"protein_coding","Human","11",17.208153,"nucleobindin 2 [Source:HGNC Symbol;Acc:HGNC:8044]",41.44,19,141828,517,1157,138,281,7
+"ENSG00000149577"," SIDT2","ENSG00000149577",51092,"protein_coding","Human","11",117.178736,"SID1 transmembrane family member 2 [Source:HGNC Symbol;Acc:HGNC:24272]",55.97,20,18710,1454,1610,180,1004,10
+"ENSG00000159403"," C1R","ENSG00000159403",715,"protein_coding","Human","12",7.080214,"complement C1r [Source:HGNC Symbol;Acc:HGNC:1246]",51.55,16,12327,937,1338,89,153,6
+"ENSG00000182054"," IDH2","ENSG00000182054",3418,"protein_coding","Human","15",90.083045,"isocitrate dehydrogenase (NADP(+)) 2 [Source:HGNC Symbol;Acc:HGNC:5383]",52.49,4,19433,904,1710,81,430,10
+"ENSG00000015532"," XYLT2","ENSG00000015532",64132,"protein_coding","Human","17",50.346126,"xylosyltransferase 2 [Source:HGNC Symbol;Acc:HGNC:15517]",56.47,7,17013,1196,1813,9,502,6
+"ENSG00000141448"," GATA6","ENSG00000141448",2627,"protein_coding","Human","18",22.169589,"GATA binding protein 6 [Source:HGNC Symbol;Acc:HGNC:4174]",44.68,2,32940,1788,2840,139,881,6
+"ENSG00000125730"," C3","ENSG00000125730",718,"protein_coding","Human","19",6.677704,"complement C3 [Source:HGNC Symbol;Acc:HGNC:1318]",51.26,28,52859,1564,1564,124,112,11
+"ENSG00000129353"," SLC44A2","ENSG00000129353",57153,"protein_coding","Human","19",10.602457,"solute carrier family 44 member 2 [Source:HGNC Symbol;Acc:HGNC:17292]",51.73,15,42101,859,1434,68,672,10
+"ENSG00000105552"," BCAT2","ENSG00000105552",587,"protein_coding","Human","19",48.795062,"branched chain amino acid transaminase 2 [Source:HGNC Symbol;Acc:HGNC:977]",54.54,12,15968,1003,1347,66,329,8
+"ENSG00000064601"," CTSA","ENSG00000064601",5476,"protein_coding","Human","20",45.890144,"cathepsin A [Source:HGNC Symbol;Acc:HGNC:9251]",56.09,40,8806,1021,2643,236,272,12
+"ENSG00000100359"," SGSM3","ENSG00000100359",27352,"protein_coding","Human","22",40.370591,"small G protein signaling modulator 3 [Source:HGNC Symbol;Acc:HGNC:25228]",47.84,13,39699,989,1428,92,348,8

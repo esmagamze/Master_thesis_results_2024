@@ -1,0 +1,11 @@
+working_dir: /mnt/eHDD/SG20/00.Intron_Retention/01.raw/000.demo
+
+fastq_dir: /mnt/eHDD/SG20/00.Intron_Retention/01.raw/000.demo/01.raw
+
+trimmed_dir: /mnt/eHDD/SG20/00.Intron_Retention/01.raw/000.demo/02.clean
+
+METAFILE: /mnt/eHDD/SG20/00.Intron_Retention/01.raw/000.demo/IRFinderS_Workflow/sample.info
+
+ref: /mnt/eHDD/SG20/00.Intron_Retention/01.raw/000.demo/REF/STAR
+
+ir_ref: /mnt/eHDD/SG20/00.Intron_Retention/01.raw/000.demo/REF

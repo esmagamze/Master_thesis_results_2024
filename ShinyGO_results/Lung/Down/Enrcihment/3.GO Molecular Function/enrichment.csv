@@ -1,0 +1,3 @@
+"Enrichment FDR","nGenes","Pathway Genes","Fold Enrichment","Pathway","URL","Genes"
+0.0326472165350493,2,947,24.1615628299894,"GO:0008270 zinc ion binding "," http://amigo.geneontology.org/amigo/term/GO:0008270"," BMP1  MT1E"
+0.0326472165350493,2,1247,18.3488372093023,"GO:0046914 transition metal ion binding "," http://amigo.geneontology.org/amigo/term/GO:0046914"," BMP1  MT1E"

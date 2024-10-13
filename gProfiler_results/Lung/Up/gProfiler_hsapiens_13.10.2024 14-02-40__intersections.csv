@@ -1,0 +1,2 @@
+"source","term_name","term_id","highlighted","adjusted_p_value","negative_log10_of_adjusted_p_value","term_size","query_size","intersection_size","effective_domain_size","intersections"
+"TF","Factor: ZNF579; motif: NGYGGGGWGGGG; match class: 1","TF:M05412_1","false","0.01247193813919134","1.9040660519143457","1","1","1","20045","ENSG00000183020"

@@ -1,0 +1,3 @@
+"source","term_name","term_id","highlighted","adjusted_p_value","negative_log10_of_adjusted_p_value","term_size","query_size","intersection_size","effective_domain_size","intersections"
+"CORUM","SCRIB-APC complex","CORUM:933","false","0.049987986220643356","1.3011343585640398","1","3","1","3383","ENSG00000180900"
+"CORUM","BMP4-BGN complex","CORUM:1972","false","0.049987986220643356","1.3011343585640398","1","3","1","3383","ENSG00000182492"

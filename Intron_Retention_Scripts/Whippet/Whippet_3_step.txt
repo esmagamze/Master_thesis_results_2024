@@ -1,0 +1,6 @@
+ls -1 *psi.gz
+ls -1 *psi.gz > psisample.txt
+cat psisample.txt | tr ‘\n’ ‘,’ > newpsi.txt
+cat newpsi.txt
+nohup  julia bin/whippet-delta.jl –a SRR…, SRR… -b SRR…,SRR… &
+# "output.diff.gz" a file like this is output.

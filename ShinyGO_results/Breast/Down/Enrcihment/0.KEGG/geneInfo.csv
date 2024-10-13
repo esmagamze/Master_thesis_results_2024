@@ -1,0 +1,4 @@
+"Pasted","Symbol","Ensembl Gene ID","Entrez","Type","Species","Chr","Position (Mbp)","Description","percentage_gc_content","transcript_count","genomeSpan","cds_length","transcript_length","FiveUTR","ThreeUTR","nExons"
+"ENSG00000116560"," SFPQ","ENSG00000116560",6421,"protein_coding","Human","1",35.176378,"splicing factor proline and glutamine rich [Source:HGNC Symbol;Acc:HGNC:10774]",42.02,11,17069,1312,1450,215,793,5
+"ENSG00000136930"," PSMB7","ENSG00000136930",5695,"protein_coding","Human","9",124.353465,"proteasome 20S subunit beta 7 [Source:HGNC Symbol;Acc:HGNC:9544]",42.8,6,61980,732,666,18,133,5
+"ENSG00000175221"," MED16","ENSG00000175221",10025,"protein_coding","Human","19",0.86763,"mediator complex subunit 16 [Source:HGNC Symbol;Acc:HGNC:17556]",62.67,11,25589,1404,1855,68,379,10

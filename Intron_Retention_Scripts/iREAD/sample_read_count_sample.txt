@@ -1,0 +1,7 @@
+SRR9623676_Aligned.out.sorted.bam	53611772 
+SRR9623677_Aligned.out.sorted.bam	85917940 
+SRR9623678_Aligned.out.sorted.bam	49357468 
+SRR9623679_Aligned.out.sorted.bam	65090634 
+SRR9623680_Aligned.out.sorted.bam	58787522 
+SRR9623681_Aligned.out.sorted.bam	43824734 
+SRR9623682_Aligned.out.sorted.bam	55828512
